@@ -21,6 +21,8 @@
 
 Add furigana to Japanese text on any page for learning kanji pronunciation. 🤔
 
+这是一个 Chrome 插件，帮助你在网页上更轻松地学习日语汉字读音。
+
 Special thanks to **_[WXT](https://wxt.dev/)_** for taking the frustration out of browser extension development for me, it's amazing!
 
 ## Download
